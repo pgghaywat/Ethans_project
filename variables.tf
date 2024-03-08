@@ -7,5 +7,5 @@ variable region {
 
 variable s3_bucket {
     type = string
-    default = "myterrrraformbucekt"
+    default = "myterrrraformbucket23"
 }
