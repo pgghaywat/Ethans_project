@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "mybucket"{
-    bucket=var.s3_bucket
+    bucket="myterrrraformbucket24"
 }
